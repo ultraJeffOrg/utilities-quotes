@@ -6,7 +6,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: utilities-quotes
     backstage.io/kubernetes-namespace: utilities
-    github.com/project-slug: ultraJeff/utilities-quotes
+    github.com/project-slug: ultraJeffOrg/utilities-quotes
   tags:
     - nodejs
     - typescript
@@ -14,7 +14,7 @@ metadata:
     - utilities
     - pricing
   links:
-    - url: https://github.com/ultraJeff/utilities-quotes
+    - url: https://github.com/ultraJeffOrg/utilities-quotes
       title: GitHub Repo
       icon: github
 spec:
